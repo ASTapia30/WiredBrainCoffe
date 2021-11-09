@@ -1,0 +1,15 @@
+C:\Users\usuario\Source\Repos\ASTapia30\WiredBrainCoffe\WiredBrainCoffeeSurveys.Reports\bin\Debug\netcoreapp3.1\WiredBrainCoffeeSurveys.Reports.exe
+C:\Users\usuario\Source\Repos\ASTapia30\WiredBrainCoffe\WiredBrainCoffeeSurveys.Reports\bin\Debug\netcoreapp3.1\WiredBrainCoffeeSurveys.Reports.deps.json
+C:\Users\usuario\Source\Repos\ASTapia30\WiredBrainCoffe\WiredBrainCoffeeSurveys.Reports\bin\Debug\netcoreapp3.1\WiredBrainCoffeeSurveys.Reports.runtimeconfig.json
+C:\Users\usuario\Source\Repos\ASTapia30\WiredBrainCoffe\WiredBrainCoffeeSurveys.Reports\bin\Debug\netcoreapp3.1\WiredBrainCoffeeSurveys.Reports.runtimeconfig.dev.json
+C:\Users\usuario\Source\Repos\ASTapia30\WiredBrainCoffe\WiredBrainCoffeeSurveys.Reports\bin\Debug\netcoreapp3.1\WiredBrainCoffeeSurveys.Reports.dll
+C:\Users\usuario\Source\Repos\ASTapia30\WiredBrainCoffe\WiredBrainCoffeeSurveys.Reports\bin\Debug\netcoreapp3.1\WiredBrainCoffeeSurveys.Reports.pdb
+C:\Users\usuario\Source\Repos\ASTapia30\WiredBrainCoffe\WiredBrainCoffeeSurveys.Reports\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\usuario\Source\Repos\ASTapia30\WiredBrainCoffe\WiredBrainCoffeeSurveys.Reports\obj\Debug\netcoreapp3.1\WiredBrainCoffeeSurveys.Reports.csproj.AssemblyReference.cache
+C:\Users\usuario\Source\Repos\ASTapia30\WiredBrainCoffe\WiredBrainCoffeeSurveys.Reports\obj\Debug\netcoreapp3.1\WiredBrainCoffeeSurveys.Reports.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Source\Repos\ASTapia30\WiredBrainCoffe\WiredBrainCoffeeSurveys.Reports\obj\Debug\netcoreapp3.1\WiredBrainCoffeeSurveys.Reports.AssemblyInfoInputs.cache
+C:\Users\usuario\Source\Repos\ASTapia30\WiredBrainCoffe\WiredBrainCoffeeSurveys.Reports\obj\Debug\netcoreapp3.1\WiredBrainCoffeeSurveys.Reports.AssemblyInfo.cs
+C:\Users\usuario\Source\Repos\ASTapia30\WiredBrainCoffe\WiredBrainCoffeeSurveys.Reports\obj\Debug\netcoreapp3.1\WiredBrainCoffeeSurveys.Reports.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Source\Repos\ASTapia30\WiredBrainCoffe\WiredBrainCoffeeSurveys.Reports\obj\Debug\netcoreapp3.1\WiredBrainCoffeeSurveys.Reports.dll
+C:\Users\usuario\Source\Repos\ASTapia30\WiredBrainCoffe\WiredBrainCoffeeSurveys.Reports\obj\Debug\netcoreapp3.1\WiredBrainCoffeeSurveys.Reports.pdb
+C:\Users\usuario\Source\Repos\ASTapia30\WiredBrainCoffe\WiredBrainCoffeeSurveys.Reports\obj\Debug\netcoreapp3.1\WiredBrainCoffeeSurveys.Reports.genruntimeconfig.cache
